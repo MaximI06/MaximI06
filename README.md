@@ -7,6 +7,8 @@ I'm an aspiring, dedicated, and hardworking student with a desire to learn new t
 - **Email**: [ivanovmaxim642@gmail.com](mailto:ivanovmaxim642@gmail.com)
 - **LinkedIn**: [Maxim Ivanov](https://www.linkedin.com/in/maxim-ivanov-129689238/)
 
+## Personal Statistics
+
 <div align="center">
   <a href="https://github.com/maximi06">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=maximi06&show_icons=true&theme=tokyonight" />
