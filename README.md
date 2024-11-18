@@ -1,6 +1,6 @@
 # About Me
 
-I'm an aspiring, dedicated, and hardworking student with a desire to learn new things and the latest technologies. Passionate about solving interesting and challenging problems, I am not afraid to roll up my sleeves and get things done. I work well in any environment and always look to grow my knowledge and meet new people. With a strong interest in front-end and back-end development, artificial intelligence, and problem-solving, I believe technology is the future and I'm excited to be a part of it.
+I'm a dedicated, and hardworking student with a desire to learn new things and the latest technologies. Passionate about solving interesting and challenging problems, I am not afraid to roll up my sleeves and get things done. I work well in any environment and always look to grow my knowledge and meet new people. With a strong interest in front-end and back-end development, artificial intelligence, and problem-solving, I believe technology is the future and I'm excited to be a part of it.
 
 **Currently Learning:**
   - C
