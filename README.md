@@ -4,6 +4,7 @@ I'm a dedicated, and hardworking student with a desire to learn new things and t
 
 **Currently Learning:**
   - C
+  - C++
   - CSS
   - HTML
 
