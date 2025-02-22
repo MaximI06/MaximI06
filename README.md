@@ -7,6 +7,7 @@ I'm a dedicated, and hardworking student with a desire to learn new things and t
   - C++
   - CSS
   - HTML
+  - JavaScript
 
 ## You can reach me here:
 
